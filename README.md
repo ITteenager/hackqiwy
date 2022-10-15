@@ -1,4 +1,4 @@
-QuickQiwi - топовая утилита которая способна:
+HackQiwi - топовая утилита которая способна:
 
 - UserBot (1000-7).
 
@@ -8,15 +8,15 @@ QuickQiwi - топовая утилита которая способна:
 
 ------- УСТАНОВКА TERMUX -------
 
-⬛ git clone https://github.com/TreeHack/QuickQiwi
+⬛ git clone https://github.com/ITteenager/hackqiwy
 
-⬛ cd QuickQiwi
+⬛ cd hackqiwy
 
 ⬛ pip install -r requirements.txt
 
 --------- ЗАПУСК --------
 
-⬛ python QuickQiwi.py
+⬛ python HackQiwi.py
 
 ----- УСТАНОВКА WINDOWS ----
 
@@ -24,12 +24,12 @@ QuickQiwi - топовая утилита которая способна:
 
 ❗Так же на компьютере должен быть установлен python, если он не установлен то необходимо установить его с сайта python.org, и при установке выбрать галочку add to path. 
 
-⚫ git clone https://github.com/TreeHack/QuickQiwi
+⚫ git clone https://github.com/ITteenager/hackqiwy
 
-⚫ cd QuickQiwi
+⚫ cd hackqiwy
 
 ⚫ pip install -r requirements.txt
 
 ------- ЗАПУСК ------
 
-⚫ python QuickQiwi.py
+⚫ python HackQiwi.py
